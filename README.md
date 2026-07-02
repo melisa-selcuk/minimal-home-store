@@ -6,7 +6,7 @@ The project was developed as a graduation project for the React Foundations Web 
 
 ## Live Demo
 
-Live demo link will be added after deployment.
+https://minimal-home-store.onrender.com
 
 ## Demo Video
 
