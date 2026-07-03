@@ -10,7 +10,7 @@ https://minimal-home-store.onrender.com
 
 ## Demo Video
 
-Demo video link will be added after recording.
+[Demo video link will be added after recording.](https://drive.google.com/file/d/1GEzcCOPQ_gEa97xpq3sK1L0KmFTt1B4w/view?usp=drive_link)
 
 ## Features
 
